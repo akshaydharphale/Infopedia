@@ -1,0 +1,2 @@
+# Infopedia
+Collaborative content development
